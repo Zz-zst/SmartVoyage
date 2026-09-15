@@ -1,0 +1,11 @@
+streamlit
+python-a2a
+langchain
+langchain-core
+langchain-openai
+langchain-mcp-adapters
+mcp
+mysql-connector-python
+pytz
+requests
+schedule
